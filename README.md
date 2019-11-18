@@ -59,3 +59,5 @@ Git Commands
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+Learn Conda:
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
