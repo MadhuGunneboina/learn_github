@@ -64,3 +64,5 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 
 Learn Django:
 https://django-dynamic-preferences.readthedocs.io/
+
+https://medium.com/@himanshuxd/how-to-create-registration-login-webapp-with-django-2-0-fd33dc7a6c67
