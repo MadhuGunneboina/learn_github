@@ -61,3 +61,6 @@ Git Commands
 
 Learn Conda:
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+Learn Django:
+https://django-dynamic-preferences.readthedocs.io/
