@@ -58,6 +58,7 @@ Git Commands
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+| `git reset --hard origin/master` | If any error occurs while pushing code |
 
 Learn Conda:
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
